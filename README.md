@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming languages
+- 👀 I love programming
+- 🌱 I’m currently learning and building projects 
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me +254727947116
 
